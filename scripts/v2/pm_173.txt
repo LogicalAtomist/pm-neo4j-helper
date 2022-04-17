@@ -7,8 +7,9 @@ section C
 page 430
 Df 173.01
 # Note: Potential error: refferred to proposition in later chapter
+# Edit: this must be a misprint. It should be 173.01 (based on the content of the prop and the impossibility of *175.01 being meant).
 Thm 173.1
-<- 175.01
+<- 173.01
 Thm 173.11
 <- 173.1 150.51
 Thm 173.12
